@@ -5,7 +5,7 @@
 "tls_disable" : 1
 }
 }],
-"api_addr": "http://34.224.31.53:8200",
+"api_addr": "http://127.0.0.1:8200",
 "storage": {
     "file": {
     "path" : "/vault-data"
