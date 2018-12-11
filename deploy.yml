@@ -1,0 +1,6 @@
+---
+- hosts: localhost
+  vars:
+    - vault_version: 1.0.0 
+  roles:
+    - role: vault-deploy
